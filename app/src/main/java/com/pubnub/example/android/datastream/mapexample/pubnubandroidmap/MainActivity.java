@@ -37,8 +37,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     public static final String DATASTREAM_UUID = "com.pubnub.example.android.datastream.mapexample.DATASTREAM_UUID";
 
     // TODO: add your pubnub keys
-    public static final String PUBLISH_KEY = "Add your pubnub publish key";
-    public static final String SUBSCRIBE_KEY = "Add you pubnub sub key";
+    public static final String PUBLISH_KEY = "pub-c-df29012c-0242-42b8-8940-95c1d6f06927";
+    public static final String SUBSCRIBE_KEY = "sub-c-1a6bbb64-2858-11e7-b284-02ee2ddab7fe";
     public static final String CHANNEL_NAME = "awesome-channel";
 
     private GoogleMap mMap;
